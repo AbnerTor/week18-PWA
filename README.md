@@ -30,7 +30,7 @@ It is a budget tracker that allows the user to keep track of their transactions,
 
 ## Tests
 
-THhe following instructions are how to run tests on this program: Type in 'node server.js' into the console if you want to do it off the webpage or alternatively you could follow this link:  . 
+THhe following instructions are how to run tests on this program: Type in 'node server.js' into the console if you want to do it off the webpage or alternatively you could follow this link: https://shrouded-dawn-63553.herokuapp.com/ . 
 
 
 
