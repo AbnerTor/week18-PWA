@@ -26,7 +26,7 @@ This project covered under a MIT License.
 ## Description
 
 It is a budget tracker that allows the user to keep track of their transactions, and also has an offline feature that takes input while the user is offline and updates after the user has gone online again.
-<img src="./public/assets/budgetTrackerss.jpg">
+![Screenshot 1](assets/budgetTrackerss.jpg)
 
 
 ## Tests
