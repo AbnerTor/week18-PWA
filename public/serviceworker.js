@@ -20,7 +20,7 @@ self.addEventListener('install', (event) => {
                 return cache.addAll(FILES_TO_CACHE)
             })
     );
-    self.skipWaiting();
+    // self.skipWaiting();
 });
 
 self.addEventListener('activate', (e) => {
